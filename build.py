@@ -30,8 +30,8 @@ SKIP_DIRS = {
     ".jekyll-cache", ".sass-cache", "vendor",
 }
 SKIP_FILES = {
-    "Gemfile", "Gemfile.lock", "README.md", "CLAUDE.md",
-    ".gitignore", "build.py", "requirements.txt", "_config.yml",
+    "README.md", "CLAUDE.md",
+    ".gitignore", "build.py", "requirements.txt",
 }
 COPY_DIRS  = {"css", "img"}
 COPY_FILES = {"CNAME", "robots.txt", "favicon.ico"}
