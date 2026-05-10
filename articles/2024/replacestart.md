@@ -7,8 +7,8 @@ layout: article
 
 </div>
 
-* auto-gen TOC:
-{:toc}
+
+[TOC]
 
 <a class="prev" href="/articles/2024/whynottrump"> < </a>
 <a class="next" href="/articles/2024/dont-talk-unless-you-can-improve-the-silence"> > </a>

@@ -126,16 +126,6 @@ def parse_frontmatter(text: str) -> tuple:
 # Markdown conversion
 # ---------------------------------------------------------------------------
 
-def preprocess_markdown(text: str) -> str:
-    """Convert kramdown-specific syntax to Python-Markdown equivalents."""
-    # * auto-gen TOC:\n{:toc}  →  [TOC]
-    # Blank lines around [TOC] are required for Python-Markdown's block processor.
-    text = re.sub(r'\*\s+auto-gen TOC:\s*\n\{:toc\}', '\n\n[TOC]\n\n', text)
-    # bare {:toc} on its own line
-    text = re.sub(r'^\{:toc\}$', '\n\n[TOC]\n\n', text, flags=re.MULTILINE)
-    return text
-
-
 def fix_toc_id(html: str) -> str:
     """
     Python-Markdown toc extension wraps the TOC in <div class="toc"><ul>…</ul></div>.
@@ -152,7 +142,6 @@ def fix_toc_id(html: str) -> str:
 
 
 def convert_markdown(text: str) -> str:
-    text = preprocess_markdown(text)
     conv = mdlib.Markdown(extensions=MD_EXTENSIONS, extension_configs=MD_EXTENSION_CONFIGS)
     html = conv.convert(text)
     return fix_toc_id(html)

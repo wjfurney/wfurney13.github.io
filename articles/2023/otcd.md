@@ -7,8 +7,8 @@ layout: article
 
 </div>
 
-* auto-gen TOC:
-{:toc}
+
+[TOC]
 
 <a class="prev"> < </a>
 <a class="next" href="/articles/2023/xpev"> > </a>

@@ -6,6 +6,9 @@
 <ul class="ulnone">
         <li class="large">
             <u style="font-size: small;">May 26</u><br>
+            <a href="/articles/2026/scissors-or-lathe.html">Scissors or a Lathe?</a><br>
+            <hr class="linebreak">
+            <u style="font-size: small;">May 26</u><br>
             <a href="/articles/2026/jekyll-migration.html">Migrating Away from Jekyll</a><br>
 </ul>
 </div>

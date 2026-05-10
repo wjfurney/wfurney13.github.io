@@ -5,8 +5,8 @@ layout: article
 
 **Why I am Not Voting for Donald Trump** <br> [politics](/articles/tags/politics)
 </div>
-* auto-gen TOC:
-{:toc}
+
+[TOC]
 <a class="prev" href="/articles/2024/24tte"> < </a>
 <a class="next" href="/articles/2024/replacestart"> > </a>
 
