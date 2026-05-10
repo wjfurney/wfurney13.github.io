@@ -34,6 +34,7 @@ body {
   width: 100%;
   min-height: 100%;
   font-family: var(--serif-font);
+  font-size: 18px;
   line-height: 1.75;
   margin: 0;
   color: light-dark(#000000, #FFFFFF);
@@ -67,11 +68,11 @@ p {
 a {
   text-decoration: none;
   color: light-dark(#000000, #FFFFFF);
+  border-bottom: 1px dotted light-dark(#000000, #FFFFFF);
 }
 
-a:link {
-  text-decoration: none;
-  border-bottom: 1px dotted light-dark(#000000, #FFFFFF);
+a:link, a:visited {
+  color: light-dark(#000000, #FFFFFF);
 }
 
 a:hover {
@@ -95,12 +96,16 @@ pre, code {
 }
 
 pre {
-  font-size: medium;
+  font-size: 1em;
 }
 
 code {
   font-style: bold;
-  font-size: medium;
+  font-size: 18px;
+}
+
+pre > code {
+  font-size: 18px;
 }
 
 pre > code {
@@ -240,7 +245,7 @@ div.footnotes li {
 }
 
 li {
-  font-size: small;
+  font-size: 1em;
 }
 
 li.large {
@@ -520,7 +525,7 @@ footer {
   }
 
   li {
-    font-size: small;
+    font-size: 1em;
     padding-right: var(--content-padding);
   }
 
@@ -619,6 +624,9 @@ footer {
     padding-right: 0;
     margin-top: 77px;
     position: fixed;
+    max-width: 25%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   pre.none {
@@ -645,7 +653,7 @@ footer {
   }
 
   li {
-    font-size: 10;
+    font-size: 1em;
     padding-right: 0px;
     margin-left: 0;
     padding-left: 0;

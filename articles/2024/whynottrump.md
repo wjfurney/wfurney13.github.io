@@ -13,28 +13,28 @@ layout: article
 
 In no particular order. I will mark a (K) next to any of these traits I also feel are shared by his opponent.
 
->*Despotic and incredulous nature  
->*Not encouraging additional financial support for Ukraine  
->*Stating he would resolve the war in Ukraine after he is elected, but before he is sworn-in, showing a lack of respect for [the hatch act](https://en.wikipedia.org/wiki/Hatch_Act)  
->*Lack of ownership and responsibility for any situation, but especially actions taken by his supporters at the US Capitol  
->*Stated desire to overturn "all rules, regulations, and articles, even those found in the Constitution" due to the 2020 election  
->*Putting himself first in all situations  
->*Lack of respect toward those around him (mocking disabled people)  
->*Stated desire to fire experts and experienced military leaders  
->*Accepted endorsement of RFK, who is directly responsible for at least dozens of deaths in Samoa via his work in Children's Health Defense  
->*Friendly association with nationalists and racists, such as Laura Loomer and Nick Fuentes  
->*Propsed tax of 10% to 20% on all imported goods (except those he deigns to wave), driving up the costs of imported goods  
->*Tendency towards economic nationalism and the "America First" economic agenda focused on increasing manufacturing and exports and limiting imports  
->*Hateful rhetoric towards those he perceives as enemies  
->*Hateful rhetoric toward immigrants  
->*Feigned incredulity about his opponent's race and background  
->*Friendly language toward dictators, who he perceives as strong, such as Putin and Orban  
->*Stating that he trusts Putin over U.S. intelligence "lowlifes"  
->*Consistent lack of respect towards all veterans, but especially those who were injured or captured, and Medal of Honor recipients  
->*Consistent lack of respect (putting it mildly) towards women and girls, including his own daughter and wives  
->*Has been found liable for sexual assault and is a felon  
->*Inability to admit he lost the 2020 election  
->*Attempted to overturn the results of the 2020 election by: pressuring state election representatives to "find him votes", speaking at the national monument and encouraging his supporters to march on the Capitol and take the country back, attempt to have Mike Pence fail to certify the election or use a false slate of electors
+> - Despotic and incredulous nature  
+> - Not encouraging additional financial support for Ukraine  
+> - Stating he would resolve the war in Ukraine after he is elected, but before he is sworn-in, showing a lack of respect for [the hatch act](https://en.wikipedia.org/wiki/Hatch_Act)  
+> - Lack of ownership and responsibility for any situation, but especially actions taken by his supporters at the US Capitol  
+> - Stated desire to overturn "all rules, regulations, and articles, even those found in the Constitution" due to the 2020 election  
+> - Putting himself first in all situations  
+> - Lack of respect toward those around him (mocking disabled people)  
+> - Stated desire to fire experts and experienced military leaders  
+> - Accepted endorsement of RFK, who is directly responsible for at least dozens of deaths in Samoa via his work in Children's Health Defense  
+> - Friendly association with nationalists and racists, such as Laura Loomer and Nick Fuentes  
+> - Propsed tax of 10% to 20% on all imported goods (except those he deigns to wave), driving up the costs of imported goods  
+> - Tendency towards economic nationalism and the "America First" economic agenda focused on increasing manufacturing and exports and limiting imports  
+> - Hateful rhetoric towards those he perceives as enemies  
+> - Hateful rhetoric toward immigrants  
+> - Feigned incredulity about his opponent's race and background  
+> - Friendly language toward dictators, who he perceives as strong, such as Putin and Orban  
+> - Stating that he trusts Putin over U.S. intelligence "lowlifes"  
+> - Consistent lack of respect towards all veterans, but especially those who were injured or captured, and Medal of Honor recipients  
+> - Consistent lack of respect (putting it mildly) towards women and girls, including his own daughter and wives  
+> - Has been found liable for sexual assault and is a felon  
+> - Inability to admit he lost the 2020 election  
+> - Attempted to overturn the results of the 2020 election by: pressuring state election representatives to "find him votes", speaking at the national monument and encouraging his supporters to march on the Capitol and take the country back, attempt to have Mike Pence fail to certify the election or use a false slate of electors
 
 
 The list above is incomplete, in terms of content and citation, but all the points within are either easily searchable or obviously true.

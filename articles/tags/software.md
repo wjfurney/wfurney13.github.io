@@ -9,3 +9,5 @@ layout: article
 - [What's all wrong with this SQL?](/articles/2024/wwwtsql)
 - [Make YouTube Usable (Again)](/articles/2024/useyt)
 - [Xonsh](/articles/2023/xpev)
+- [The Program](/articles/2025/TheProgram)
+- [Migrating Away from Jekyll](/articles/2026/jekyll-migration)

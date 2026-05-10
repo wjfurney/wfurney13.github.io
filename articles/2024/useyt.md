@@ -50,7 +50,5 @@ By the same author as (and built on top of) SponsorBlock, <a class="inline"  tar
 ## Update 6/9/2024
 Also check out the <a class="inline"  target="_blank"  href="https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/">Improve Tube</a> extension for some additional UI enhancement options. I haven't used this one long enough to officially recommend it though.<br><br>See <a class="inline"  target="_blank" href="https://gist.githubusercontent.com/wfurney13/a677938536ecfa1a2e787f4f4cbe497b/raw/1740838d0154f5ca4d79fc0349f603d4427da902/uofhidebuttons"> this gist</a> for additional uBlock origin filters to hide the Join, Thanks, Clip, Share, Save and Download buttons in the video player.
 
-<hr>
-
 [^1]: List of emails [ajay] has received [about inserting malware into [his] extension](https://sponsor.ajay.app/emails/)
 [^2]: Funny highlight from this video. "My thing with shorts is I feel like I get dumber every time I watch them". I couldn't agree more.
