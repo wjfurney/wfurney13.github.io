@@ -7,6 +7,7 @@ layout: article
 </div>
 
 [TOC]
+
 <a class="prev" href="/articles/2024/24tte"> < </a>
 <a class="next" href="/articles/2024/replacestart"> > </a>
 

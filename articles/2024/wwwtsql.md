@@ -8,6 +8,7 @@ layout: article
 
 
 [TOC]
+
 <a class="prev" href="/articles/2024/useyt"> < </a> <a class="next" href="/articles/2024/24tte"> > </a>
 
 Take a look at this *gorgeous* SQL I found on the internet.
